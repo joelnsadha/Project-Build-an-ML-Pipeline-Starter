@@ -10,3 +10,4 @@ dependencies:
   - pip:
       - wandb==0.13.9
       - databricks_cli==0.8.7
+      - hydra-joblib-launcher==1.2.0
