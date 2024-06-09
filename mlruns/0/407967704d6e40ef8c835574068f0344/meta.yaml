@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joelnsadha/Desktop/Dev/mlops-project1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/407967704d6e40ef8c835574068f0344/artifacts
+end_time: 1717878610017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 407967704d6e40ef8c835574068f0344
+run_name: redolent-hawk-185
+run_uuid: 407967704d6e40ef8c835574068f0344
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717878608278
+status: 4
+tags: []
+user_id: joelnsadha

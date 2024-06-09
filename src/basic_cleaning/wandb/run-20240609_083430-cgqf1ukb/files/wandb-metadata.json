@@ -1,0 +1,55 @@
+{
+    "os": "macOS-11.7.10-x86_64-i386-64bit",
+    "python": "3.9.19",
+    "heartbeatAt": "2024-06-09T12:34:31.043639",
+    "startedAt": "2024-06-09T12:34:30.414782",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "sample.csv:latest",
+        "--output_artifact",
+        "clean_sample.csv",
+        "--output_type",
+        "clean_sample",
+        "--output_description",
+        "Data with outliers and null values removed",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/Users/joelnsadha/Desktop/Dev/mlops-project1/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py",
+    "codePath": "src/basic_cleaning/run.py",
+    "git": {
+        "remote": "https://github.com/joelnsadha/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "51cf612f6d0af0eee751c3af7148e8f9f8b169fe"
+    },
+    "email": "stonedev704@gmail.com",
+    "root": "/Users/joelnsadha/Desktop/Dev/mlops-project1/Project-Build-an-ML-Pipeline-Starter",
+    "host": "Joels-MacBook-Pro.local",
+    "username": "joelnsadha",
+    "executable": "/Applications/anaconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2300,
+        "min": 2300,
+        "max": 2300
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2300,
+            "min": 2300,
+            "max": 2300
+        }
+    ],
+    "disk": {
+        "total": 233.5667953491211,
+        "used": 14.27383804321289
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joelnsadha/Desktop/Dev/mlops-project1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4db67b3a7bcb487892b5b289ef033f25/artifacts
+end_time: 1717642052570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4db67b3a7bcb487892b5b289ef033f25
+run_name: trusting-crane-374
+run_uuid: 4db67b3a7bcb487892b5b289ef033f25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717640491081
+status: 3
+tags: []
+user_id: joelnsadha

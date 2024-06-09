@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joelnsadha/Desktop/Dev/mlops-project1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/332e0d203e8a43dfb525e32459fe8cf7/artifacts
+end_time: 1717944056918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 332e0d203e8a43dfb525e32459fe8cf7
+run_name: bright-jay-56
+run_uuid: 332e0d203e8a43dfb525e32459fe8cf7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717943721807
+status: 3
+tags: []
+user_id: joelnsadha

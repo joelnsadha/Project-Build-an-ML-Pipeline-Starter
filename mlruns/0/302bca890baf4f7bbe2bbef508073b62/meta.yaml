@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joelnsadha/Desktop/Dev/mlops-project1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/302bca890baf4f7bbe2bbef508073b62/artifacts
+end_time: 1717944056636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 302bca890baf4f7bbe2bbef508073b62
+run_name: carefree-slug-771
+run_uuid: 302bca890baf4f7bbe2bbef508073b62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717943729102
+status: 3
+tags: []
+user_id: joelnsadha

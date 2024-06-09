@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joelnsadha/Desktop/Dev/mlops-project1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/54cff35eb89e4f88af8906e671c11f81/artifacts
+end_time: 1717877451226
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54cff35eb89e4f88af8906e671c11f81
+run_name: rumbling-shoat-746
+run_uuid: 54cff35eb89e4f88af8906e671c11f81
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717877449547
+status: 4
+tags: []
+user_id: joelnsadha

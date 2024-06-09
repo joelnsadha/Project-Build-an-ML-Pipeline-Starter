@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joelnsadha/Desktop/Dev/mlops-project1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c26ae96c90fc47839cba3ca895c6da8b/artifacts
+end_time: 1717946725464
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c26ae96c90fc47839cba3ca895c6da8b
+run_name: gaudy-fawn-712
+run_uuid: c26ae96c90fc47839cba3ca895c6da8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717945495584
+status: 3
+tags: []
+user_id: joelnsadha

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joelnsadha/Desktop/Dev/mlops-project1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0ef102fe4acd433ba801fb1cf8813d0c/artifacts
+end_time: 1717933310397
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ef102fe4acd433ba801fb1cf8813d0c
+run_name: intrigued-slug-154
+run_uuid: 0ef102fe4acd433ba801fb1cf8813d0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717931680964
+status: 3
+tags: []
+user_id: joelnsadha

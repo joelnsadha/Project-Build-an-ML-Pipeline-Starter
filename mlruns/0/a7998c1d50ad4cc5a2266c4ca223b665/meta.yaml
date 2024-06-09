@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joelnsadha/Desktop/Dev/mlops-project1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a7998c1d50ad4cc5a2266c4ca223b665/artifacts
+end_time: 1717878650766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7998c1d50ad4cc5a2266c4ca223b665
+run_name: wise-mouse-556
+run_uuid: a7998c1d50ad4cc5a2266c4ca223b665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717878649006
+status: 4
+tags: []
+user_id: joelnsadha

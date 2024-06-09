@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joelnsadha/Desktop/Dev/mlops-project1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a5a856fd9bac4b349e07b78b307385b1/artifacts
+end_time: 1717878747852
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5a856fd9bac4b349e07b78b307385b1
+run_name: adorable-hen-170
+run_uuid: a5a856fd9bac4b349e07b78b307385b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717878746126
+status: 4
+tags: []
+user_id: joelnsadha

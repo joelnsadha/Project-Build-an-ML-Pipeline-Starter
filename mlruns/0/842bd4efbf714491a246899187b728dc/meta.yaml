@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joelnsadha/Desktop/Dev/mlops-project1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/842bd4efbf714491a246899187b728dc/artifacts
+end_time: 1717876923565
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 842bd4efbf714491a246899187b728dc
+run_name: gaudy-wren-102
+run_uuid: 842bd4efbf714491a246899187b728dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717876921158
+status: 4
+tags: []
+user_id: joelnsadha

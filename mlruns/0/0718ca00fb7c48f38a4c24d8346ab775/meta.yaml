@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joelnsadha/Desktop/Dev/mlops-project1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0718ca00fb7c48f38a4c24d8346ab775/artifacts
+end_time: 1717936492833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0718ca00fb7c48f38a4c24d8346ab775
+run_name: welcoming-deer-537
+run_uuid: 0718ca00fb7c48f38a4c24d8346ab775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717936164086
+status: 3
+tags: []
+user_id: joelnsadha

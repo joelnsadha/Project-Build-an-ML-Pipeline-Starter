@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joelnsadha/Desktop/Dev/mlops-project1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2e440e60c9e34561a536199446be217d/artifacts
+end_time: 1717936493163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e440e60c9e34561a536199446be217d
+run_name: stylish-goat-863
+run_uuid: 2e440e60c9e34561a536199446be217d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717936156277
+status: 3
+tags: []
+user_id: joelnsadha

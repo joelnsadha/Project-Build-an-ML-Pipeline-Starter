@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joelnsadha/Desktop/Dev/mlops-project1/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5ddac03dbc994f98aa4a4bf0246474a3/artifacts
+end_time: 1717933310779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ddac03dbc994f98aa4a4bf0246474a3
+run_name: rumbling-duck-671
+run_uuid: 5ddac03dbc994f98aa4a4bf0246474a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717930429034
+status: 3
+tags: []
+user_id: joelnsadha
